@@ -1,7 +1,7 @@
 {
 	"name": "@wvhulle/eslint-config-node",
 	"version": "0.0.1",
-	"description": "Formatter and linter for Node libraries and applications written in JavaScript.",
+	"description": "Configuration for the ESLint formatter and linter for Node libraries and applications written in JavaScript.",
 	"main": "index.js",
 	
 	"license": "GNU GPLv3d",
