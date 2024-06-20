@@ -1,9 +1,8 @@
 {
 	"name": "@wvhulle/eslint-config-node",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Configuration for the ESLint formatter and linter for Node libraries and applications written in JavaScript.",
 	"main": "index.js",
-	
 	"license": "GNU GPLv3d",
 	"repository": "https://github.com/wvhulle/eslint",
 	"keywords": [
@@ -14,14 +13,14 @@
 	],
 	"private": false,
 	"dependencies": {
-		"eslint": "^8.52.0",
-		"eslint-config-prettier": "9.0.0",
-		"eslint-plugin-import": "^2.29.0",
-		"eslint-plugin-prefer-arrow-functions": "^3.2.4",
-		"eslint-plugin-promise": "^6.1.1",
-		"eslint-plugin-regexp": "^2.1.1",
-		"eslint-plugin-sort": "2.11.0",
-		"eslint-plugin-unused-imports": "^3.0.0"
+		"eslint": "^9.5.0",
+		"eslint-config-prettier": "9.1.0",
+		"eslint-plugin-import": "^2.29.1",
+		"eslint-plugin-prefer-arrow-functions": "^3.3.2",
+		"eslint-plugin-promise": "^6.2.0",
+		"eslint-plugin-regexp": "^2.6.0",
+		"eslint-plugin-sort": "3.0.2",
+		"eslint-plugin-unused-imports": "^4.0.0"
 	},
 	"module": "commonjs",
 	"author": "Willem Vanhulle <willemvanhulle@gmail.com>"
